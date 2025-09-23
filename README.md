@@ -11,4 +11,4 @@ There are additional files which are used within the code files.
 - `spacex_launch_dash.csv` is for `spacex_dash_app.py`
 - `4.dataset_part_2.csv` and `dataset_part_3.csv` are for `4. SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb`
 
-It may be required to install additional libraries and packages to run all code files.
+Dependencies must be installed to run all code files.
